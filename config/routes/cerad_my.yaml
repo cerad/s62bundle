@@ -1,0 +1,7 @@
+controllers:
+    resource:
+        path: '@CeradMyBundle/src/Controller/'
+        namespace: Cerad\MyBundle\Controller
+    type: attribute
+    prefix: cerad_my
+    
