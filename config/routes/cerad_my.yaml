@@ -1,4 +1,5 @@
-controllers:
+# project/config/routes/cerad_my.uaml
+cerad_my_controllers:
     resource:
         path: '@CeradMyBundle/src/Controller/'
         namespace: Cerad\MyBundle\Controller
